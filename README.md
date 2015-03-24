@@ -1,4 +1,4 @@
-# nearHospital (가까운 병원)
+# nearHospital (내주변 의료시설 찾기)
 공공데이터 Open API 를 사용한 가까운 병원,약국 위치 검색을 위한 코드공유.
 
 Screen shot :
