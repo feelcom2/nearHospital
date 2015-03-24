@@ -1,9 +1,8 @@
 # nearHospital (가까운 병원)
-공공데이터 Open API 를 사용한 가까운 병원 위치 검색
+공공데이터 Open API 를 사용한 가까운 병원,약국 위치 검색을 위한 코드공유.
 
 Screen shot :
-![Screen shot](http://applusform.github.io/nearHospital/screenshot1.png)
-![Screen shot](http://applusform.github.io/nearHospital/screenshot2.png)
+
 
 ### 인증키 발급
 https://www.data.go.kr 에서 오픈API - 전국 병‧의원 찾기 서비스의 [SERVICE KEY]를 발급 받아야 합니다. 
@@ -12,7 +11,7 @@ https://www.data.go.kr 에서 오픈API - 전국 병‧의원 찾기 서비스�
 -
 #### 실행하는 방법
 1. MOML Application Viewer를 설치한 후 실행합니다. [Google Play](https://play.google.com/store/apps/details?id=org.mospi.momlappviewer), [Apple AppStore](http://itunes.apple.com/app/id893554325). 
-2. 주소 입력창에 **applusform.github.io/nearHospital** 를 입력합니다.
+2. 주소 입력창에 **feelcom2.github.io/nearHospital** 를 입력합니다.
 
 #### 빌드하는 방법 ( .apk, .ipa )
 1. http://ApplusForm.com 사이트의 **[Get Agate]** 메뉴에서 **MOML API Demo Peoject** 를 다운로드 받습니다.
